@@ -1,0 +1,3 @@
+- Front End Application has an example on how to send a request to a different microservice, in RequestSender.java
+- FrontEnd Port: 8001
+- Database Port: 8002
